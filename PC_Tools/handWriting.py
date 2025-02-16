@@ -11,7 +11,7 @@ import time
 trace_width = 450
 trace_height = 250
 min_trace_len = 5
-z_threshold = 40000
+z_threshold = 65500
 
 class SerialDrawer:
     def __init__(self, port='COM3', baud_rate=115200):

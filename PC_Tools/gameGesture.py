@@ -1,13 +1,13 @@
 import serial
 import threading
-from pynput.mouse import Controller as MouseController
+from pynput.mouse import Controller as MouseController, Button
 from pynput.keyboard import Controller as KeyboardController
 
 # Configuration
 serial_port = "COM3"  # Change to your correct port
-baud_rate = 9600
+baud_rate = 115200
 message_to_detect = "Flick Down to Up"
-trigger_action = "Q"  # Can be 'Q' for keyboard press or 'left_click' for mouse click
+trigger_action = "left_click"  # Can be 'Q' for keyboard press or 'left_click' for mouse click
 
 # Initialize Serial Communication
 ser = serial.Serial(serial_port, baud_rate, timeout=0)  # timeout=0 for non-blocking
@@ -30,7 +30,7 @@ def handle_serial_data():
                     print("Pressed Q.")
                 elif trigger_action == "left_click":
                     # Perform a left click
-                    mouse.click(mouse.Button.left)
+                    mouse.click(Button.left)
                     print("Mouse left click.")
                 else:
                     print(f"Unknown action: {trigger_action}")

@@ -10,7 +10,7 @@ I have previously created embedded projects with gesture interaction support, bu
 🐧 QQ Group (for discussion only): 647186542  
 🐦 [Twitter](https://twitter.com/RealCorebb "@RealCorebb") @RealCorebb  
 🧵 [Threads](https://www.threads.net/@coreoobb "@coreoobb") @coreoobb  
-▶️ Video: [YouTube](https://www.youtube.com/watch?v=KMqlBF-dVS4 "YouTube") | [Bilibili](https://www.bilibili.com/video/BV1uM4m1f75z "Bilibili")
+▶️ Video: [Youtube](https://youtu.be/Or8UPq3nDdc "Youtube") | [ Bilibili](https://www.bilibili.com/video/BV1r6PceuEDK " Bilibili")
 
 Designed By Corebb With Love From bbRealm!
 

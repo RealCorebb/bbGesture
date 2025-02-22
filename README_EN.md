@@ -1,4 +1,4 @@
-# bbGesture [English](https://github.com/RealCorebb/bbGesture/blob/main/README.md "中文")  
+# bbGesture [中文](https://github.com/RealCorebb/bbGesture/blob/main/README.md "中文")  
 ![image](https://github.com/RealCorebb/bbGesture/blob/main/IMG/bbGesture.jpg?raw=true)
 
 ## Gesture Sensor That Works Through Objects

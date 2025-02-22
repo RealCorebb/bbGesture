@@ -10,7 +10,7 @@
 🐧QQ 群（仅供交流）：647186542  
 🐦[Twitter](https://twitter.com/RealCorebb "@RealCorebb") @RealCorebb  
 🧵[Threads](https://www.threads.net/@coreoobb "@coreoobb") @coreoobb  
-▶️ 本期视频(Video): [Youtube](https://www.youtube.com/watch?v=KMqlBF-dVS4 "Youtube") | [ Bilibili](https://www.bilibili.com/video/BV1uM4m1f75z " Bilibili")
+▶️ 本期视频(Video): [Youtube](https://youtu.be/Or8UPq3nDdc "Youtube") | [ Bilibili](https://www.bilibili.com/video/BV1r6PceuEDK " Bilibili")
 
 # 禁止搬运到 Gitee
 

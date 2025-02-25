@@ -6,7 +6,7 @@
 
 I have previously created embedded projects with gesture interaction support, but most optical gesture sensors on the market need to be exposed, affecting aesthetics. Now, I have developed a gesture sensor that can detect hands and recognize gestures through objects, even supporting 3D positioning.
 
-😄 [Afdian](https://afdian.com/a/kuruibb "Afdian")  
+😄 [Afdian](https://afdian.com/a/kuruibb "Afdian") (Illustrated Tutorial)   
 🐧 QQ Group (for discussion only): 647186542  
 🐦 [Twitter](https://twitter.com/RealCorebb "@RealCorebb") @RealCorebb  
 🧵 [Threads](https://www.threads.net/@coreoobb "@coreoobb") @coreoobb  

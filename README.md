@@ -26,6 +26,7 @@ Designed By Corebb With Love From bbRealm!
 # 参考资料：
 
 芯片是 Microchip 的 MGC3130  
-https://www.microchip.com/en-us/products/touch-and-gesture/3d-gestures/gestic-technology-basics （这个是原理、介绍页）  
-官方的硬件参考设计
-https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/BoardDesignFiles/GestICHardwareReferencesV1.0.5.zip  （内含USB转I²C模块）
+[GestIC 技术基础](https://www.microchip.com/en-us/products/touch-and-gesture/3d-gestures/gestic-technology-basics)（这个是原理、介绍页）  
+
+官方的硬件参考设计  
+[GestIC 硬件参考 V1.0.5](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/BoardDesignFiles/GestICHardwareReferencesV1.0.5.zip)（内含 USB 转 I²C 模块）  

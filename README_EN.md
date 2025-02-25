@@ -23,5 +23,8 @@ Designed By Corebb With Love From bbRealm!
 
 # Reference:
 
-The chip used is Microchip’s MGC3130  
-https://www.microchip.com/en-us/products/touch-and-gesture/3d-gestures/gestic-technology-basics
+The chip is Microchip's MGC3130  
+[GestIC Technology Basics](https://www.microchip.com/en-us/products/touch-and-gesture/3d-gestures/gestic-technology-basics) (This is the principles and introduction page)  
+
+Official hardware reference design  
+[GestIC Hardware References V1.0.5](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/BoardDesignFiles/GestICHardwareReferencesV1.0.5.zip) (Includes a USB-to-I²C module)  

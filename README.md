@@ -25,6 +25,11 @@ Designed By Corebb With Love From bbRealm!
 
 # 参考资料：
 
-灵感来源 
-[Network activity visualizer by Alex Chang](https://www.hackster.io/alex_chang/network-activity-visualizer-e86cec)
+芯片是 Microchip 的 MGC3130  
+[GestIC 技术基础](https://www.microchip.com/en-us/products/touch-and-gesture/3d-gestures/gestic-technology-basics)（这个是原理、介绍页）  
+
+[芯片 MGC3130 资料页](https://www.microchip.com/en-us/product/mgc3130)（下方 Documentation 包含所有你要找但又找不到的资料）  
+
+官方的硬件参考设计  
+[GestIC 硬件参考 V1.0.5](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/BoardDesignFiles/GestICHardwareReferencesV1.0.5.zip)（内含 USB 转 I²C 模块）  
 

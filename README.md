@@ -7,9 +7,9 @@
 我以前做过支持手势交互的嵌入式作品，但市面上普遍的光学手势传感器需外露，影响美观。如今，我动手制作了一款可穿透物体的手势传感器，可以隔着物体隔空检测到手并识别手势动作，甚至支持 3D 定位。
 
 😄[爱发电](https://afdian.com/a/kuruibb "爱发电")  （已更新此图文教程）  
-🐧QQ 群（仅供交流）：647186542  
-🐦[Twitter](https://twitter.com/RealCorebb "@RealCorebb") @RealCorebb  
 🧵[Threads](https://www.threads.net/@coreoobb "@coreoobb") @coreoobb  
+🐧QQ 群（仅供交流，人满请加Discord）：647186542  
+😈Discord 频道：[加入](https://discord.gg/gvbcCtdQrk "加入")   
 ▶️ 本期视频(Video): [Youtube](https://youtu.be/Or8UPq3nDdc "Youtube") | [ Bilibili](https://www.bilibili.com/video/BV1r6PceuEDK " Bilibili")
 
 # 禁止搬运到 Gitee
